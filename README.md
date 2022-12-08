@@ -31,14 +31,14 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Lua.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/processing.png" alt="drawing" width="80"/>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Arch.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Linux.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Unity.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Gradle.png" alt="drawing" width="80"/>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ### Some other tools I have some experience in
 
