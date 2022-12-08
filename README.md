@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello there, I'm katherine!
 
-<!--
-**KanwiNeko/KanwiNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="drawing" width="200"/>
 
-Here are some ideas to get you started:
+I'm an 18 year old student and developer with a passion of creating; I love to think that coding is one of the purest forms of art, and everything I've done to this point has stuck to that philosophy, my main goal is to become a succesful full stack developer that's able to bring any idea to life.
+<p></p>I've been interested in coding for as long as I can remember and along the journey I've become very adept to solving specific problems, and these skills have now become part of the way i solve problems and reason through difficulties.
+<p></p>
+<table align="center">
+  <td> <b>Pronouns</b>: She/They 🏳️‍⚧️</td>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub](https://img.shields.io/github/followers/KanwiNeko?color=lightgray&label=Follow&logo=GitHub&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/katiepreciosa?color=blue&label=Follow&logo=twitter&style=for-the-badge)
+![Reddit](https://img.shields.io/reddit/user-karma/combined/kanwiTetsu?color=orange&label=Karma&logo=reddit&style=for-the-badge)
