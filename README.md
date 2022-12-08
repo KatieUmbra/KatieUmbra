@@ -15,7 +15,7 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 ---
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/883348946708221952) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanwiNeko&theme=tokyonight&hide_border=true&bg_color=1a1c1f&line_height=28&border_radius=10.0&title_color=ffffff&text_color=9d9d9d&icon_color=43b581)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KanwiNeko&theme=tokyonight&hide_border=true&bg_color=1a1c1f&line_height=28&border_radius=10.0&title_color=ffffff&text_color=9d9d9d&icon_color=43b581&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -31,14 +31,14 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Lua.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/processing.png" alt="drawing" width="80"/>
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Arch.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Linux.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Unity.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/Gradle.png" alt="drawing" width="80"/>
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ### Some other tools I have some experience in
 
