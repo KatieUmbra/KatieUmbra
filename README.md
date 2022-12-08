@@ -12,4 +12,4 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 ![GitHub](https://img.shields.io/github/followers/KanwiNeko?color=lightgray&label=Followers&logo=GitHub&style=for-the-badge)
 ![Twitter](https://img.shields.io/twitter/follow/katiepreciosa?color=9cf&label=Followers&logo=twitter&style=for-the-badge)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/kanwiTetsu?color=orange&label=Karma&logo=reddit&style=for-the-badge)
-[<img src="https://img.shields.io/static/v1?label=Message&message=1&color=blue&logo=discord&style=for-the-badge">](discordapp.com/users/883348946708221952)
+[<img src="https://img.shields.io/static/v1?label=Message&message=1&color=blue&logo=discord&style=for-the-badge">](https://discordapp.com/users/883348946708221952)
