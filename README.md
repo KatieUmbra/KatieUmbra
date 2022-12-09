@@ -45,3 +45,9 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/C%2B%2B.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/C.png" alt="drawing" width="80"/>
 
+<br/><br/><br/>
+
+---
+
+#### Contact:  [Email](mailto:business@kanwi.gay), [Discord](https://discordapp.com/users/883348946708221952)
+
