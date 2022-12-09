@@ -11,6 +11,7 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/kanwiTetsu?color=orange&label=Karma&logo=reddit&style=for-the-badge)
 [<img src="https://img.shields.io/static/v1?label=Message&message=1&color=blue&logo=discord&style=for-the-badge">](https://discordapp.com/users/883348946708221952)
 ![Pronouns](https://img.shields.io/static/v1?label=Pronouns&message=She/They&color=pink&style=for-the-badge)
+![Languages](https://img.shields.io/static/v1?label=Languages&message=Esp/Eng&color=red&style=for-the-badge)
 
 ---
 
