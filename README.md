@@ -41,7 +41,7 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 
 <br/><br/><br/>
 
-### Some other tools I have some experience in
+### Other tools I have some experience in
 
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/C%2B%2B.png" alt="drawing" width="80"/>
 <img align="left" src="https://raw.githubusercontent.com/KanwiNeko/KanwiNeko/main/assets/C.png" alt="drawing" width="80"/>
