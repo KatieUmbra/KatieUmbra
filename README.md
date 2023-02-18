@@ -12,7 +12,8 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KatieUmbra&theme=tokyonight&hide_border=true&bg_color=1a1c1f&line_height=28&border_radius=10.0&title_color=ffffff&text_color=9d9d9d&icon_color=43b581&card_width=400)](https://github.com/anuraghazra/github-readme-stats" alt="Katie's github stats">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/overview.svg#gh-dark-mode-only" alt="Katie's github stats" width="450">
+<img align="center" src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/languages.svg#gh-dark-mode-only" alt="Katie's github stats" width="450">
 
 ---
 
