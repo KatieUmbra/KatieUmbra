@@ -1,5 +1,4 @@
-## Hello there, I'm katherine!
-
+<h1 align="center">Hello there, I'm katherine!</h1>
 <table>
   <tr>
     <td>
@@ -12,6 +11,7 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
       <p>
 I've been interested in coding for as long as I can remember and along the journey I've become very adept to solving specific problems, and these skills have now become part of the way i solve problems and reason through difficulties.
       </p>
+      <br>
       <div align="center">
         
 ![GitHub](https://img.shields.io/github/followers/KatieUmbra?color=lightgray&label=Followers&logo=GitHub&style=for-the-badge)
@@ -20,8 +20,6 @@ I've been interested in coding for as long as I can remember and along the journ
 
   </tr>
 </table>
-
-<br>
 
 ---
 
@@ -32,7 +30,7 @@ I've been interested in coding for as long as I can remember and along the journ
 
 ---
 
-<h1 align="center">Skills</h1>
+<h2 align="center">Skills</h2>
 
 <img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/skills.png" alt="Katie's github skills">
 
