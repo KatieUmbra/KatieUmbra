@@ -12,8 +12,8 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 
 ---
 
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/overview.svg#gh-dark-mode-only" alt="Katie's github stats" width="450">
-<img align="center" src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/languages.svg#gh-dark-mode-only" alt="Katie's github stats" width="450">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/overview.svg#gh-dark-mode-only" alt="Katie's github stats" width="400">
+<img align="center" src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/languages.svg#gh-dark-mode-only" alt="Katie's github stats" width="400">
 
 ---
 
