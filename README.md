@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/backdrop/backdrop%201.png">
 <h1 align="center">Hello there, I'm katherine!</h1>
 <table>
   <tr>
@@ -21,20 +22,15 @@ I've been interested in coding for as long as I can remember and along the journ
   </tr>
 </table>
 
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/overview.svg#gh-dark-mode-only" alt="Katie's github stats" width="400">
   <img src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/languages.svg#gh-dark-mode-only" alt="Katie's github stats" width="400">
 </div>
 
----
-
 <h2 align="center">Skills</h2>
 
 <img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/skills.png" alt="Katie's github skills">
 
----
-
 #### Contact:  [Email](mailto:business@kanwi.gay)
 
+<img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/backdrop/backdrop%202.png">
