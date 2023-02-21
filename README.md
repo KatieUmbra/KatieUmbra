@@ -1,14 +1,27 @@
 ## Hello there, I'm katherine!
 
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/PFP.png" alt="drawing" width="200"/>
-
-I'm an 18 year old student and developer with a passion of creating; I love to think that coding is one of the purest forms of art, and everything I've done to this point has stuck to that philosophy, my main goal is to become a succesful full stack developer that's able to bring any idea to life.
-<p></p>I've been interested in coding for as long as I can remember and along the journey I've become very adept to solving specific problems, and these skills have now become part of the way i solve problems and reason through difficulties.
-<p></p>
-
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/PFP.png" alt="drawing" width="600">
+    </td>
+    <td>
+      <p> 
+I'm an 18 year old student and developer with a passion of creating; I love to think that coding is one of the purest forms of art, and           everything I've done to this point has stuck to that philosophy, my main goal is to become a succesful full stack developer that's able           to bring any idea to life.
+      </p>
+      <p>
+I've been interested in coding for as long as I can remember and along the journey I've become very adept to solving specific problems, and these skills have now become part of the way i solve problems and reason through difficulties.
+      </p>
+      <div align="center">
+        
 ![GitHub](https://img.shields.io/github/followers/KatieUmbra?color=lightgray&label=Followers&logo=GitHub&style=for-the-badge)
 ![Pronouns](https://img.shields.io/static/v1?label=Pronouns&message=She/They&color=pink&style=for-the-badge)
 ![Languages](https://img.shields.io/static/v1?label=Languages&message=Esp/Eng&color=red&style=for-the-badge)
+
+  </tr>
+</table>
+
+<br>
 
 ---
 
@@ -20,6 +33,8 @@ I'm an 18 year old student and developer with a passion of creating; I love to t
 ---
 
 <h1 align="center">Skills</h1>
+
+<img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/skills.png" alt="Katie's github skills">
 
 ---
 
