@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/backdrop/backdrop%201.png">
 <h1 align="center">Hello there, I'm katherine!</h1>
 <table>
   <tr>
@@ -32,5 +31,3 @@ I've been interested in coding for as long as I can remember and along the journ
 <img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/skills.png" alt="Katie's github skills">
 
 #### Contact:  [Email](mailto:business@kanwi.gay)
-
-<img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/backdrop/backdrop%202.png">
