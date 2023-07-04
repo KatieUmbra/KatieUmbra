@@ -28,6 +28,35 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <h2 align="center">Skills</h2>
 
-<img src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/skills.png" alt="Katie's github skills">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/kotlin-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c++-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/rust-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/ts-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/java-lang.svg" alt="" width="50">
+
+<br/><br/>
+
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/lua-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/python-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/html-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/css-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c%23-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/js-lang.svg" alt="" width="50">
+
+<br/><br/>
+
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/ktor.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/angular.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/spring.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/compose.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/unity.svg" alt="" width="50">
+
+<br/><br/>
+
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/gradle.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/cmake.svg" alt="" width="50">
+
+<br/><br/>
 
 #### Contact:  [Email](mailto:business@kanwi.gay)
