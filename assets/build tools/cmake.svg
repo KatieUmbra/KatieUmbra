@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Cmake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5582.01 5705.52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b8040;
+      }
+
+      .cls-2 {
+        fill: #bbbcbd;
+      }
+
+      .cls-3 {
+        fill: #b1352d;
+      }
+
+      .cls-4 {
+        fill: #02477f;
+      }
+    </style>
+  </defs>
+  <g id="g922">
+    <polygon id="polygon6" class="cls-4" points="2746.45 356.09 298.19 5197.28 2967.76 2928.84 2746.45 356.09"/>
+    <polygon id="polygon8" class="cls-1" points="5139.38 5349.43 1847.37 4021.56 284.36 5349.43 5139.38 5349.43"/>
+    <polygon id="polygon10" class="cls-3" points="5305.36 5307.93 2857.1 439.09 3216.73 4464.18 5305.36 5307.93"/>
+    <polygon id="polygon34" class="cls-2" points="3106.08 4422.69 2981.59 3053.32 1930.36 3952.4 3106.08 4422.69"/>
+  </g>
+</svg>

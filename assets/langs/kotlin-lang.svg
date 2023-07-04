@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Kotlin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 5046.96 5705.52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="140.99" y1="1636.8" x2="1671.34" y2="-145.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0795d3"/>
+      <stop offset=".75" stop-color="#766db2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="2853.08" x2="5045.67" y2="2853.08" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c45da3"/>
+      <stop offset=".75" stop-color="#f6891f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1940.01" y1="5961.75" x2="5273" y2="2611.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0795d3"/>
+      <stop offset=".53" stop-color="#766db2"/>
+    </linearGradient>
+  </defs>
+  <polygon class="cls-3" points="6.17 2852.8 2519.51 330.25 6.17 330.25 6.17 2852.8"/>
+  <polygon class="cls-1" points="0 5375.92 0 2852.8 2519.5 330.25 5045.67 330.25 0 5375.92"/>
+  <polygon class="cls-2" points="5039.5 5375.92 6.17 5375.92 2523.12 2852.8 5039.5 5375.92"/>
+</svg>
