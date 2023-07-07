@@ -36,7 +36,7 @@ I've been interested in coding for as long as I can remember and along the journ
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/ts-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/java-lang.svg" alt="" width="50">
 
-<br/><br/>
+<br/><br/><br/>
 
 ### **My complete skillset (｀･ω･)ﾉ☆･ﾟ::ﾟ**
 
@@ -48,7 +48,7 @@ I've been interested in coding for as long as I can remember and along the journ
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c%23-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/js-lang.svg" alt="" width="50">
 
-<br/><br/>
+<br/><br/><br/>
 
 ### **Frameworks (^つωฅ^)**
 
@@ -58,13 +58,13 @@ I've been interested in coding for as long as I can remember and along the journ
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/compose.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/unity.svg" alt="" width="50">
 
-<br/><br/>
+<br/><br/><br/>
 
 ### **Build tools /ᐠ ̥    ̣̮ ̥ ᐟ\ﾉ**
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/gradle.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/cmake.svg" alt="" width="50">
 
-<br/><br/>
+<br/><br/><br/>
 
 #### Contact:  [Email](mailto:business@kanwi.gay)
