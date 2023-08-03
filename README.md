@@ -53,6 +53,7 @@ I've been interested in coding for as long as I can remember and along the journ
 ### **Frameworks (^つωฅ^)**
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/ktor.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/Svelte.png" alt="" height="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/angular.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/spring.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/compose.svg" alt="" width="50">
