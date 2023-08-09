@@ -34,7 +34,6 @@ I've been interested in coding for as long as I can remember and along the journ
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c++-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/rust-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/ts-lang.svg" alt="" width="50">
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/java-lang.svg" alt="" width="50">
 
 <br/><br/><br/>
 
@@ -47,6 +46,7 @@ I've been interested in coding for as long as I can remember and along the journ
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/css-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c%23-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/js-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/java-lang.svg" alt="" width="50">
 
 <br/><br/><br/>
 
