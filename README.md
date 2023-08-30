@@ -28,7 +28,7 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <h2 align="center">Skills</h2>
 
-### **My favorite languages (◕ ω ◕✿)**
+- ### **My favorite languages (◕ ω ◕✿)**
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/kotlin-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c++-lang.svg" alt="" width="50">
@@ -37,7 +37,7 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <br/><br/><br/>
 
-### **My complete skillset (｀･ω･)ﾉ☆･ﾟ::ﾟ**
+- ### **My complete skillset (｀･ω･)ﾉ☆･ﾟ::ﾟ**
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/lua-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/python-lang.svg" alt="" width="50">
@@ -50,7 +50,7 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <br/><br/><br/>
 
-### **Frameworks (^つωฅ^)**
+- ### **Frameworks (^つωฅ^)**
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/ktor.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/Svelte.png" alt="" height="50">
@@ -61,7 +61,7 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <br/><br/><br/>
 
-### **Build tools /ᐠ ̥    ̣̮ ̥ ᐟ\ﾉ**
+- ### **Build tools /ᐠ ̥    ̣̮ ̥ ᐟ\ﾉ**
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/gradle.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/cmake.svg" alt="" width="50">
