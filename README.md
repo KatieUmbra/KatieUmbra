@@ -32,9 +32,7 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/kotlin-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c++-lang.svg" alt="" width="50">
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/rust-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/ts-lang.svg" alt="" width="50">
-<img align="left" src="https://raw.githubusercontent.com/ziglang/logo/9d06c090ca39ef66019a639241ea2d7e448b9fe1/zig-mark.svg" alt="" width=50>
 
 <br/><br/><br/>
 
@@ -48,6 +46,8 @@ I've been interested in coding for as long as I can remember and along the journ
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c%23-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/js-lang.svg" alt="" width="50">
 <img align="left" justify="center" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/java-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/ziglang/logo/9d06c090ca39ef66019a639241ea2d7e448b9fe1/zig-mark.svg" alt="" width=50>
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/rust-lang.svg" alt="" width="50">
 
 <br/><br/><br/>
 
