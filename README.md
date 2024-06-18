@@ -72,4 +72,11 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <br/><br/><br/>
 
+- ### **Databases I've worked with (✿◡‿◡)**
+
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/tools/postgresql.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/tools/mariadb.svg" alt="" width="50">
+
+<br/><br/><br/>
+
 #### Contact:  [Email](mailto:katherine@kaytea.dev)
