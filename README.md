@@ -9,11 +9,11 @@
 I'm an 19 year old student and developer with a passion of creating; I love to think that coding is one of the purest forms of art, and           everything I've done to this point has stuck to that philosophy, my main goal is to become a succesful full stack developer that's able           to bring any idea to life.
       </p>
       <p>
-I've been interested in coding for as long as I can remember and along the journey I've become very adept to solving specific problems, and these skills have now become part of the way i solve problems and reason through difficulties.
+I've been interested in coding for as long as I can remember and along the journey I've become very adept to solving specific problems, and these skills have now become part of the way i solve and reason through difficulties.
       </p>
       <br>
       <div align="center">
-        
+
 ![GitHub](https://img.shields.io/github/followers/KatieUmbra?color=lightgray&label=Followers&logo=GitHub&style=for-the-badge)
 ![Pronouns](https://img.shields.io/static/v1?label=Pronouns&message=She/They&color=pink&style=for-the-badge)
 ![Languages](https://img.shields.io/static/v1?label=Languages&message=Esp/Eng&color=red&style=for-the-badge)
