@@ -30,16 +30,16 @@ I've been interested in coding for as long as I can remember and along the journ
 
 - ### **My favorite languages (◕ ω ◕✿)**
 
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/kotlin-lang.svg" alt="" width="50">
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c++-lang.svg" alt="" width="50">
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/ts-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/rust-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c++-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/kotlin-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/lua-lang.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/ts-lang.svg" alt="" width="50">
 
 <br/><br/><br/>
 
 - ### **My complete skillset (｀･ω･)ﾉ☆･ﾟ::ﾟ**
 
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/lua-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/python-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/c-lang.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/langs/html-lang.svg" alt="" width="50">
@@ -54,11 +54,13 @@ I've been interested in coding for as long as I can remember and along the journ
 - ### **Frameworks (^つωฅ^)**
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/ktor.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/tokio.svg" alt="" width="50"/>
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/Svelte.png" alt="" height="50">
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/angular.svg" alt="" width="50">
-<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/spring.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/tailwind.svg" alt="" width="50"/>
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/compose.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/angular.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/unity.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/frameworks/actix.svg" alt="" width="50"/>
 
 <br/><br/><br/>
 
@@ -66,6 +68,7 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/gradle.svg" alt="" width="50">
 <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/cmake.svg" alt="" width="50">
+<img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/build%20tools/cargo.svg" alt="" width="50">
 
 <br/><br/><br/>
 
