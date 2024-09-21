@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://raw.githubusercontent.com/KatieUmbra/KatieUmbra/main/assets/PFP.png" alt="drawing" width="600">
+      <img align="left" src="https://i.pinimg.com/564x/11/e4/d7/11e4d7857100994d6b339203e6b82824.jpg" alt="drawing" width="600">
     </td>
     <td>
       <p> 
