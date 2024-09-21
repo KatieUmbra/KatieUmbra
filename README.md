@@ -22,8 +22,8 @@ I've been interested in coding for as long as I can remember and along the journ
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/overview.svg#gh-dark-mode-only" alt="Katie's github stats" width="400">
-  <img src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/languages.svg#gh-dark-mode-only" alt="Katie's github stats" width="400">
+  <img src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/overview.svg" alt="Katie's github stats" width="400">
+  <img src="https://raw.githubusercontent.com/KatieUmbra/Stats/master/generated/languages.svg" alt="Katie's github stats" width="400">
 </div>
 
 <h2 align="center">Skills</h2>
