@@ -2,14 +2,14 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://i.pinimg.com/564x/11/e4/d7/11e4d7857100994d6b339203e6b82824.jpg" alt="drawing" width="600">
+      <img align="left" src="https://i.pinimg.com/564x/11/e4/d7/11e4d7857100994d6b339203e6b82824.jpg" alt="drawing" width="1200">
     </td>
     <td>
       <p> 
-I'm an 20 year old student and developer with a passion of creating; I love to think that coding is one of the purest forms of art, and           everything I've done to this point has stuck to that philosophy, my main goal is to become a succesful full stack developer that's able           to bring any idea to life.
+I'm an 20 year old student and developer with a passion for creating. I like to think that programming is an underappreciated form of art, and everything I've done up to this point has followed that philosophy, my main goal is to become a succesful full stack developer that's able to bring any idea to life (I also love systems, game engine development, and graphics 😛).
       </p>
       <p>
-I've been interested in coding for as long as I can remember and along the journey I've become very adept to solving specific problems, and these skills have now become part of the way i solve and reason through difficulties.
+I've been interested in coding for as long as I can remember and along the journey I've become very skilled and knowledgeable about a large variety of nerdy topics (I'm curious and a good researcher), I love math and I love understanding the way things work underneath what we can see.
       </p>
       <br>
       <div align="center">
