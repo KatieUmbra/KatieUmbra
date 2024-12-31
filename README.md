@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm katherine!</h1>
+<h1 align="center">Hi, I'm katherine 🤍</h1>
 <table>
   <tr>
     <td>
@@ -6,7 +6,7 @@
     </td>
     <td>
       <p> 
-I'm an 20 year old student and developer with a passion for creating. I like to think that programming is an underappreciated form of art, and everything I've done up to this point has followed that philosophy, my main goal is to become a succesful full stack developer that's able to bring any idea to life (I also love systems, game engine development, and graphics 😛).
+I'm an <b>20</b> year old student and developer with a passion for creating. I like to think that programming is an underappreciated form of art, and everything I've done up to this point has followed that philosophy, my main goal is to become a succesful full stack developer that's able to bring any idea to life (I also love systems, game engine development, and graphics 😛).
       </p>
       <p>
 I've been interested in coding for as long as I can remember and along the journey I've become very skilled and knowledgeable about a large variety of nerdy topics (I'm curious and a good researcher), I love math and I love understanding the way things work underneath what we can see.
