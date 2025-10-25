@@ -79,4 +79,4 @@ I've been interested in coding for as long as I can remember and along the journ
 
 <br/><br/><br/>
 
-#### Contact:  [Email](mailto:katherine@kaytea.dev)
+#### Contact:  [Email](mailto:contact@kaytea.dev)
